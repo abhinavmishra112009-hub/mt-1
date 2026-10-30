@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1><!DOCTYPE html>
+<html>
+<head>
+    <title>Online Learning Portal</title>
+</head>
+
+<body>
+
+    <h1>Online Learning Portal</h1>
+
+    <p>
+        Welcome to our <b>Online Learning Portal</b>.
+        Learn new skills through <i>online courses</i>
+        and get <mark>better knowledge</mark>.
+    </p>
+
+    <h2>Learning Image</h2>
+
+    <figure>
+        <img src="learning.jpg"
+             alt="Students learning online"
+             width="400">
+
+        <figcaption>
+            Figure 1: Online Learning
+        </figcaption>
+    </figure>
+
+    <h2>Audio Lecture</h2>
+
+    <audio controls>
+        <source src="lecture.mp3" type="audio/mpeg">
+        Your browser does not support audio.
+    </audio>
+
+    <h2>Available Courses</h2>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Course Code</th>
+            <th>Course Name</th>
+            <th>Duration</th>
+        </tr>
+
+        <tr>
+            <td>101</td>
+            <td>HTML</td>
+            <td>2 Months</td>
+        </tr>
+
+        <tr>
+            <td>102</td>
+            <td>CSS</td>
+            <td>3 Months</td>
+        </tr>
+
+        <tr>
+            <td>103</td>
+            <td>JavaScript</td>
+            <td>4 Months</td>
+        </tr>
+    </table>
+
+</body>
+</html></h1>
+    <p>My first HTML page.</p>
+</body>
+</html>
